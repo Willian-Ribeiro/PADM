@@ -1,0 +1,9 @@
+Adaptação de Flickr Gallery para fazer apresentação dos drones disponíveis, talvez também o use para realizar apresentação dos modos de funcionamento do app
+
+// ainda utilizando server ***
+
+TODO
+alternar para alocação interna de fotos
+utilizar alocação interna privada para os modos de operação (imagens do sistema)
+utilizar MVVM
+*** criar intent a partir do clique nos cards e corrigir apresentação dos textos

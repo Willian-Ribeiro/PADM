@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlickrGallery</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="failed_fetch">Something went wrong while fetching the photos</string>
+    <string name="connection_failed">Failed to access Flickr web service</string>
+    <string name="parsing_failed">Failed to interpret data from the Flickr service</string>
+    <string name="no_network">Failed to download thumbnail: no network connection</string>
+    <string name="alternate_main_title">Video Cards</string>
+    <string name="unknown_command">Unknown Flickr Service command</string>
+    <string name="thumbnail_download_error">Failed to download thumbnail</string>
+</resources>
