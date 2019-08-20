@@ -1,0 +1,5 @@
+Módulo que traz a imagem da câmera sem realizar storage ou tratamento, bom para diminuir a latência
+
+
+
+*** Utilizando camera do dispositivo pq meu celular tem saída incompatível com minha câmera USB, precisamos de cel com saída micro e acelerômetro
